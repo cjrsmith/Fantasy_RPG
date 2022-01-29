@@ -1549,6 +1549,10 @@ PrefabInstance:
       propertyPath: m_AngularSpeed
       value: 100000
       objectReference: {fileID: 0}
+    - target: {fileID: 3211000817580906473, guid: 7fe97bfc2e706c76ca9e477072801d95, type: 3}
+      propertyPath: timeBetweenAttacks
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7711718157633038626, guid: 7fe97bfc2e706c76ca9e477072801d95, type: 3}
       propertyPath: m_Name
       value: Player
